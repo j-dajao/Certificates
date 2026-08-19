@@ -4,8 +4,8 @@ A collection of my certificates, digital badges, and completed courses. Some cer
 
 P.S. The certificates for the following completed courses have not yet been issued/processed by the respective instructors:
 
-CyberOps Associate
-CCNAv7: Switching, Routing, and Wireless Essentials
-Partner: NDG Linux Essentials
+CyberOps Associate<br> 
+CCNAv7: Switching, Routing, and Wireless Essentials<br>
+Partner: NDG Linux Essentials<br>
 
 Completion is documented in my Cisco Networking Academy (NetAcad) learning transcript.
